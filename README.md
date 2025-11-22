@@ -262,7 +262,6 @@ Replace these when using commands in your engagements.
 
 ### Application won't start
 - Ensure Python 3.6+ is installed: `python --version`
-- Install dependencies: `pip install -r requirements.txt`
 - Check for error messages in terminal
 
 ### Copy to clipboard not working
@@ -323,4 +322,4 @@ Built to streamline repetitive tasks and improve efficiency during security asse
 
 ---
 
-**Stay safe. Stay ethical. Happy hunting! 🎯**
+**Happy hunting! 🎯**
