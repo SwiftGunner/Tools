@@ -73,24 +73,20 @@ git clone <repository-url>
 cd port-service-tool
 ```
 
-### 2. Install Dependencies
-
-```bash
-pip install -r requirements.txt
+### 2. make it executable
 ```
+chmod +x port_service_tool.py
+```
+
+
 
 ### 3. Run the Application
 
 ```bash
-python port_service_tool.py
+python3 port_service_tool.py
 ```
 
-Or make it executable (Linux/Mac):
 
-```bash
-chmod +x port_service_tool.py
-./port_service_tool.py
-```
 
 ---
 
